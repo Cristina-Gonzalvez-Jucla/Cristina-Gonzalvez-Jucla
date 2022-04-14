@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Cristina-Gonzalvez-Jucla
-- 👀 I’m interested in Full Stack Software Engineer 
+- 👀 I’m interested in Full Stack Web Development / Software Engineer 
 - 🌱 I’m currently learning Java, Typescrip, React, Angular, ...
 - 📫 How to reach me cristinagonzalvezjucla@outlook.com
