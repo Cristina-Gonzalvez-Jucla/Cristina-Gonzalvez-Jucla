@@ -32,12 +32,13 @@
 
 ## 🍎 My Projects 
 <details>
-<summary>Typescript</summary>
+<summary>React | Typescript</summary>
 <ul>
 
 <li>Cristina's Cave</li>
 <li>Design System</li>
+<li>Cooking Cristina</li>
 </ul>
 </details>
 
-## Let's Keep In Touch
+## 💌 Let's Keep In Touch
