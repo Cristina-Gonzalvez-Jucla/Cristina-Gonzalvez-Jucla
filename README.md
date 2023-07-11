@@ -5,7 +5,7 @@
 ## 🌱 Things I am currently working on
 - Become an expert in typescript
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pnMmpidWRwY2lwbHBlYWs5ZW9hcWJnYTNoYzE0bWF0OHR3bzN2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" />
+<img align= "right" width= "500" high= "700" alt="GIF" src="https://cristinagonzalvez.com/Images/rec10.webp" />
 
 ## 💪 Things I am challenging myself with
 - Coding at least 4 hours a day
