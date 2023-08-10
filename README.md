@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <h3 align="center">Hello, I'm Cristina </h3>
+  <h1 align="center">Hello, I'm Cristina </h1>
   <p align="center">
     <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> Website </a>|
     <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> LinkedIn</a> | 
