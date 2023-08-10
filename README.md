@@ -1,8 +1,5 @@
 <div align="center" width="300">
-  <p>Hello, I'm Cristina </p>
-    <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> Website </a>|
-    <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> LinkedIn</a> | 
-    <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/">Mail</a>
+  <h2>Hello, I'm Cristina</h2>
 </div>
 
 ## 🌱 Things I am currently working on
@@ -45,3 +42,6 @@
 </details>
 
 ## 💌 Let's Keep In Touch
+<a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> Website </a>|
+<a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> LinkedIn</a> | 
+<a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> Mail</a>
