@@ -1,6 +1,9 @@
 <p align="center" width="300">
   <h3 align="center">Hello, I'm Cristina </h3>
-  <p align="center"><a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> Website </a>|<a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> LinkedIn</a> | <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/">Mail</a></p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> Website </a>|
+    <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> LinkedIn</a> | 
+    <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/">Mail</a></p>
 </p>
 
 ## 🌱 Things I am currently working on
