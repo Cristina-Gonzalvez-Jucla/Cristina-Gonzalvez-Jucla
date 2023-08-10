@@ -1,10 +1,9 @@
-<p align="center" width="300">
-  <h2 align="center">Hello, I'm Cristina </h2>
-  <p align="center">
+<div align="center" width="300">
+  <h2>Hello, I'm Cristina </h2>
     <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> Website </a>|
     <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> LinkedIn</a> | 
-    <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/">Mail</a></p>
-</p>
+    <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/">Mail</a>
+</div>
 
 ## 🌱 Things I am currently working on
 - Become an expert in typescript
