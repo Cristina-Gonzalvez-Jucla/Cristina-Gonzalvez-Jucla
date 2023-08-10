@@ -1,5 +1,6 @@
 <p align="center" width="300">
   <h3 align="center">Hello, I'm Cristina </h3>
+  <p align="center">Website | LinkedIn | Mail</p>
 </p>
 
 ## 🌱 Things I am currently working on
