@@ -3,7 +3,7 @@
 </div>
 
 ## 🌱 Things I am currently working on
-- Become an expert in typescript
+- Become an expert in React | TypeScript
 
 <img align= "right" width= "300" high= "500" alt="GIF" src="https://cristinagonzalvez.com/Images/rec10.webp" />
 
