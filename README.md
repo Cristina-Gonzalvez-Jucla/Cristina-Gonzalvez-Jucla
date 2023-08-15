@@ -34,6 +34,7 @@
 <details>
 <summary>React | Typescript</summary>
 <ul>
+  <li>SpiceScribe</li>
   <li>Design System</li>
   <li>Cooking Cristina</li>
 </ul>
