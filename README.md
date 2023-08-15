@@ -34,10 +34,8 @@
 <details>
 <summary>React | Typescript</summary>
 <ul>
-
-<li>Cristina's Cave</li>
-<li>Design System</li>
-<li>Cooking Cristina</li>
+  <li>Design System</li>
+  <li>Cooking Cristina</li>
 </ul>
 </details>
 
