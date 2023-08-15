@@ -36,7 +36,6 @@
 <ul>
   <a href="https://github.com/Cristina-Gonzalvez-Jucla/Spice-Scribe"><li>Spice Scribe</li></a>
   <li>Design System</li>
-  <li>Cooking Cristina</li>
 </ul>
 </details>
 
