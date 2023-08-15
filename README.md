@@ -42,6 +42,6 @@
 </details>
 
 ## 💌 Let's Keep In Touch
-<a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> Website </a>|
+<a href="https://cristinagonzalvez.com/"> Website </a>|
 <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> LinkedIn</a> | 
 <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> Mail</a>
