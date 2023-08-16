@@ -13,7 +13,7 @@
 ## 🛠 Tech Stack
 
 - 💻 Front-End
-  ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)
+  ![TypeScript](https://shields.io/badge/TypeScript-333333?logo=TypeScript&logoColor=FFF)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
