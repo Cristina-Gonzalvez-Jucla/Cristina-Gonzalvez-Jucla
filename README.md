@@ -21,7 +21,7 @@
 - 🌐 Back-End
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🛢 Frameworks
+- 🧱 Frameworks
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 - 🛢 DataBase 
