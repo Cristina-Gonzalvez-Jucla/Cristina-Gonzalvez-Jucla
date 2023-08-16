@@ -39,6 +39,13 @@
 </ul>
 </details>
 
+<details>
+<summary>React Native | Ionic | Typescript</summary>
+<ul>
+  <a href="https://github.com/Cristina-Gonzalvez-Jucla/ionic-react-bim-calculator"><li>Body Mass Index (BMI) Calculator</li></a>
+</ul>
+</details>
+
 ## 💌 Let's Keep In Touch
 <a href="https://cristinagonzalvez.com/"> Website </a>|
 <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> LinkedIn</a> | 
