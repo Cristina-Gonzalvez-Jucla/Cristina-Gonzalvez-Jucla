@@ -1,5 +1,5 @@
 <div align="center" width="300">
-  <h2>Hello, I'm Cristina</h2>
+  <h2> Hello, I'm Cristina <img src="https://24.media.tumblr.com/96e32c38c2131e9be7b5399ea94285b7/tumblr_mj2gl1Lhjc1qi3yn4o1_400.gif" width="30px"></h2>
 </div>
 
 ## 🌱 Things I am currently working on
