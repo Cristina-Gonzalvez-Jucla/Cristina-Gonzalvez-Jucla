@@ -36,7 +36,8 @@
 ## 🍎 My Projects 
 <details>
 <summary>React | Typescript</summary>
-<ul>
+<ul>  
+  <a href="https://github.com/Cristina-Gonzalvez-Jucla/RockPaperScissors"><li>Rock Paper Scissors</li></a>
   <a href="https://github.com/Cristina-Gonzalvez-Jucla/Spice-Scribe"><li>Spice Scribe</li></a>
   <li>Design System</li>
   <a href="https://github.com/Cristina-Gonzalvez-Jucla/DevDash"><li>DevDash</li></a>
