@@ -54,6 +54,7 @@
 <details>
 <summary>JavaScript</summary>
 <ul>  
+  <a href=""><li>Rock Paper Scissors</li></a>
   <a href=""><li>Bingo</li></a>
 </ul>
 </details>
