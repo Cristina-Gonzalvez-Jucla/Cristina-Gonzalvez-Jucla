@@ -51,6 +51,13 @@
 </ul>
 </details>
 
+<details>
+<summary>JavaScript</summary>
+<ul>  
+  <a href=""><li>Bingo</li></a>
+</ul>
+</details>
+
 ## 💌 Let's Keep In Touch
 <a href="https://cristinagonzalvez.com/"> Website </a><br>
 <a href="https://www.linkedin.com/in/cristina-gonzalvez-jucla/"> LinkedIn</a>
