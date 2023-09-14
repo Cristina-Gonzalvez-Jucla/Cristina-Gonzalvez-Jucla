@@ -54,8 +54,8 @@
 <details>
 <summary>JavaScript</summary>
 <ul>  
-  <a href=""><li>Rock Paper Scissors</li></a>
-  <a href=""><li>Bingo</li></a>
+  <a href="https://github.com/Cristina-Gonzalvez-Jucla/RockPaperScissors"><li>Rock Paper Scissors</li></a>
+  <a href="https://github.com/Cristina-Gonzalvez-Jucla/Bingo"><li>Bingo</li></a>
 </ul>
 </details>
 
