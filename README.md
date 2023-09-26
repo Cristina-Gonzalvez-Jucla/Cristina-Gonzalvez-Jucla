@@ -35,12 +35,20 @@
 
 ## 🍎 My Projects 
 <details>
-<summary>React | Typescript</summary>
+<summary>React | TypeScript</summary>
 <ul>  
-  <a href="https://github.com/Cristina-Gonzalvez-Jucla/RockPaperScissors"><li>Rock Paper Scissors</li></a>
   <a href="https://github.com/Cristina-Gonzalvez-Jucla/Spice-Scribe"><li>Spice Scribe</li></a>
   <li>Design System</li>
   <a href="https://github.com/Cristina-Gonzalvez-Jucla/DevDash"><li>DevDash</li></a>
+</ul>
+</details>
+
+<details>
+<summary>React | JavaScript</summary>
+<ul>  
+  <a href=""><li>Bingo</li></a>
+  <a href=""><li>Space Invaders</li></a>
+  <a href=""><li>Radio Online</li></a>
 </ul>
 </details>
 
@@ -55,7 +63,6 @@
 <summary>JavaScript</summary>
 <ul>  
   <a href="https://github.com/Cristina-Gonzalvez-Jucla/RockPaperScissors"><li>Rock Paper Scissors</li></a>
-  <a href="https://github.com/Cristina-Gonzalvez-Jucla/Bingo"><li>Bingo</li></a>
 </ul>
 </details>
 
