@@ -38,7 +38,7 @@
 <summary>React | TypeScript</summary>
 <ul>  
   <a href="https://github.com/Cristina-Gonzalvez-Jucla/Spice-Scribe"><li>Spice Scribe</li></a>
-  <li>Design System</li>
+  <a href=""><li>Design System</li></a>
   <a href="https://github.com/Cristina-Gonzalvez-Jucla/DevDash"><li>DevDash</li></a>
 </ul>
 </details>
