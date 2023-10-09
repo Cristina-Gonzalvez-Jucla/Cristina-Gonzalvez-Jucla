@@ -37,7 +37,7 @@
 <details>
 <summary>React | TypeScript</summary>
 <ul>  
-  <a href=""><li>50 React Projects</li></a>
+  <a href="https://github.com/Cristina-Gonzalvez-Jucla/50-React-Projects"><li>50 React Projects</li></a>
   <a href="https://github.com/Cristina-Gonzalvez-Jucla/Spice-Scribe"><li>Spice Scribe</li></a>
   <a href=""><li>Design System</li></a>
   <a href="https://github.com/Cristina-Gonzalvez-Jucla/DevDash"><li>DevDash</li></a>
